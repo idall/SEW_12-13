@@ -4,3 +4,5 @@ Learning to use git are:
 Isabella Dall'Oglio 3AHIT/TGM
 Janet Weiss 3AHIT/TGM
 Rene Pöcher 3AHIT/TGM
+
+Marlene Dorfinger 3AHIT/TGM
